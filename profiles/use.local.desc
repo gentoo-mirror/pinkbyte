@@ -1,0 +1,31 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml. Please add
+# your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-emulation/qemu:alsa - Enable alsa output for sound emulation
+app-emulation/qemu:esd - Enable esound output for sound emulation
+app-emulation/qemu:gnutls - Enable TLS support for the VNC console server
+app-emulation/qemu:kqemu - Enables the kernel acceleration module on a x86/x86-64 cpu
+app-emulation/qemu:kvm - Use the KVM (Kernel Virtual Machine) infrastructure on compatible hardware
+app-emulation/qemu:ncurses - Enable the ncurses-based console
+app-emulation/qemu:pulseaudio - Enable pulseaudio output for sound emulation
+app-emulation/qemu:sdl - Enable the SDL-based console
+app-emulation/qemu:vde - Enable Virtual Distributed Ethernet (VDE) based networking
+app-emulation/wine:capi - Enable ISDN support via CAPI
+app-emulation/wine:custom-cflags - Bypass strip-flags; use are your own peril
+app-emulation/wine:gecko - Add support for the Gecko engine when using iexplore
+app-emulation/wine:opencl - Enable OpenCL support
+app-emulation/wine:perl - Install helpers written in perl (winedump/winemaker)
+app-emulation/wine:samba - Add support for NTLM auth. see http://wiki.winehq.org/NtlmAuthSetupGuide and http://wiki.winehq.org/NtlmSigningAndSealing
+app-emulation/wine:udisks - Support dynamic storage devices using sys-fs/udisks
+app-emulation/wine:win32 - Build a 32bit version of Wine (won't run Win64 binaries)
+app-emulation/wine:win64 - Build a 64bit version of Wine (won't run Win32 binaries)
+app-mobilephone/gammu:irda - Enables infrared support
+net-firewall/vuurmuur:logrotate - Add configuration file for logrotate
+net-irc/psybnc:multinetwork - Adds support for multiple networks
+net-irc/psybnc:oidentd - Adds support for oidentd
+net-irc/psybnc:scripting - Adds scripting support
+x11-misc/gxneur:gconf - enables to keep configuration (in GConf)
+x11-misc/xneur:aplay - Use aplay from media-sound/alsa-utils for playing sounds
+x11-misc/xneur:gtk3 - Use gtk3 instead of gtk2
+x11-misc/xneur:keylogger - Enable keylogger support (logs all text into html; x11-misc/gxneur allows to view this text)
