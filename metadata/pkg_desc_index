@@ -1,0 +1,42 @@
+app-emulation/qemu 0.11.1-r9999: QEMU emulator and ABI wrapper
+app-emulation/wine 1.5.2-r9999 1.5.9-r9999: free implementation of Windows(tm) on Unix with custom patches to make World of Tanks work
+app-misc/itmages-service 9999: Scripts for uploading pictures to ITmages.ru
+app-mobilephone/gammu 1.31.90 1.32.0: A tool to handle your cellular phone
+app-pda/synce-librtfcomp 1.1: SynCE - Compressed RTF extensions
+app-portage/findcruft 1.0.4-r1: Yet another script to find obsolete files
+dev-libs/libb64 1.2.1: C/C++ routines for fast encoding/decoding data into and from a base64-encoded format
+games-action/babylon-mediavps 3.4.2: The Babylon Project is stand-alone and does not need original Freespace 2 to work
+games-action/freespace2-data 1.0: Freespace 2 - This is the data portion of Freespace 2
+games-action/freespace2-mediavps 3.6.10: Artwork and models that greatly enhance the graphics of Freespace 2
+games-action/fs2_launcher 152: Yal fs2_launcher
+games-action/fs2_open 3.6.10: Freespace2 SCP
+games-emulation/pcsx-r 1.9.92: PCSX-Reloaded: a fork of PCSX, the discontinued Playstation emulator
+games-puzzle/braid 1.0.2-r9999: Platform game where you manipulate flow of time
+games-rpg/dear-esther 20130608-r1: Ghost story, told using first-person gaming technologies
+games-server/mednafen-server 0.4.1: Server for Mednafen emulator
+games-strategy/hedgewars 0.9.15-r9999: Free Worms-like turn based strategy game
+games-util/ttyhlauncher 9999: ttyh.ru minecraft launcher
+kde-misc/kwalletcli 2.11: A command-line interface for the KDE Wallet
+media-libs/sdl-net 1.2.7-r9999: Simple Direct Media Layer Network Support Library
+net-analyzer/arpwatch 2.1.15-r9999: An ethernet monitor program that keeps track of ethernet/ip address pairings
+net-analyzer/lightsquid 1.8: Lite and fast log analyzer for Squid
+net-analyzer/playcap 0.1.1: Plays back captures made from wireshark, tcpdump, or any libpcap-based application
+net-analyzer/snort 2.9.2.2-r9999: The de facto standard for intrusion detection/prevention
+net-analyzer/snortsam 2.70-r9999: Snort plugin that allows automated blocking of IP addresses on several firewalls
+net-firewall/vuurmuur 0.8_beta2 0.8_beta2_p20110330: Frontend for iptables featuring easy to use command line utils, rule- and logdaemons
+net-ftp/tftp-hpa 5.1-r9999: port of the OpenBSD TFTP server
+net-irc/psybnc 2.4_beta1: psyBNC is a multi-user and multi-server gateway to IRC networks
+net-libs/libvuurmuur 0.8_beta2 0.8_beta2_p20110330: Libraries and plugins required by Vuurmuur
+net-misc/openvpn-radiusplugin 2.1: Radiusplugin for OpenVPN
+net-misc/sgopherd 9999: Small Gopher Server written in GNU Bash
+net-misc/utm5 3.001-r1: NetUP UTM - universal billing system for Internet Service Providers.
+net-misc/wsdlpull 1.24: C++ web services client library and utilities
+net-misc/xrdp 0.4.1 9999: An open source remote desktop protocol(rdp) server.
+net-misc/yasnd 9999: Yet Another Stupid Network Daemon, tool that checks hosts' availability
+x11-apps/spotlighter 0.3: Shows a movable and resizable spotlight on the screen
+x11-misc/cairo-dock 2.3.0.2: Cairo-dock is a fast, responsive, Mac OS X-like dock.
+x11-misc/gxneur 0.15.0: GTK+ based GUI for xneur
+x11-misc/qtdiscs 0.6 9999: QtDiscs is a little program to show information about CD and DVD discs collection
+x11-misc/qxneur 9999: Qt4 frontend for X Neural switcher
+x11-misc/xneur 0.15.0: In-place conversion of text typed in with a wrong keyboard layout (Punto Switcher replacement)
+x11-plugins/cairo-dock-plugins 2.3.0.2: Official plugins for cairo-dock
