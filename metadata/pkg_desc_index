@@ -5,11 +5,6 @@ app-mobilephone/gammu 1.31.90 1.32.0: A tool to handle your cellular phone
 app-pda/synce-librtfcomp 1.1: SynCE - Compressed RTF extensions
 app-portage/findcruft 1.0.4-r1: Yet another script to find obsolete files
 dev-libs/libb64 1.2.1: C/C++ routines for fast encoding/decoding data into and from a base64-encoded format
-games-action/babylon-mediavps 3.4.2: The Babylon Project is stand-alone and does not need original Freespace 2 to work
-games-action/freespace2-data 1.0: Freespace 2 - This is the data portion of Freespace 2
-games-action/freespace2-mediavps 3.6.10: Artwork and models that greatly enhance the graphics of Freespace 2
-games-action/fs2_launcher 152: Yal fs2_launcher
-games-action/fs2_open 3.6.10: Freespace2 SCP
 games-emulation/pcsx-r 1.9.92: PCSX-Reloaded: a fork of PCSX, the discontinued Playstation emulator
 games-puzzle/braid 1.0.2-r9999: Platform game where you manipulate flow of time
 games-rpg/dear-esther 20130608-r1: Ghost story, told using first-person gaming technologies
