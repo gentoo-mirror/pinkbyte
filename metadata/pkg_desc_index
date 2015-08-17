@@ -10,7 +10,6 @@ games-puzzle/braid 1.0.2-r9999: Platform game where you manipulate flow of time
 games-rpg/dear-esther 20130608-r1: Ghost story, told using first-person gaming technologies
 games-server/mednafen-server 0.4.1: Server for Mednafen emulator
 games-strategy/hedgewars 0.9.15-r9999: Free Worms-like turn based strategy game
-games-util/ttyhlauncher 9999: ttyh.ru minecraft launcher
 kde-misc/kwalletcli 2.11: A command-line interface for the KDE Wallet
 media-libs/sdl-net 1.2.7-r9999: Simple Direct Media Layer Network Support Library
 net-analyzer/arpwatch 2.1.15-r9999: An ethernet monitor program that keeps track of ethernet/ip address pairings
