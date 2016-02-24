@@ -6,6 +6,7 @@ app-pda/synce-librtfcomp 1.1: SynCE - Compressed RTF extensions
 app-portage/findcruft 1.0.4-r1: Yet another script to find obsolete files
 app-text/qownnotes 9999: Open source notepad with Owncloud support
 dev-libs/libb64 1.2.1: C/C++ routines for fast encoding/decoding data into and from a base64-encoded format
+games-arcade/mininim 0.9.2: The Advanced Prince of Persia Engine
 games-emulation/pcsx-r 1.9.92: PCSX-Reloaded: a fork of PCSX, the discontinued Playstation emulator
 games-puzzle/braid 1.0.2-r9999: Platform game where you manipulate flow of time
 games-rpg/dear-esther 20130608-r1: Ghost story, told using first-person gaming technologies
