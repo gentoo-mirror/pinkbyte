@@ -10,7 +10,6 @@ games-arcade/mininim 0.9.2: The Advanced Prince of Persia Engine
 games-emulation/pcsx-r 1.9.92: PCSX-Reloaded: a fork of PCSX, the discontinued Playstation emulator
 games-puzzle/braid 1.0.2-r9999: Platform game where you manipulate flow of time
 games-rpg/dear-esther 20130608-r1: Ghost story, told using first-person gaming technologies
-games-server/mednafen-server 0.4.1: Server for Mednafen emulator
 games-strategy/hedgewars 0.9.15-r9999: Free Worms-like turn based strategy game
 games-util/ttyhlauncher 9999: ttyh.ru minecraft launcher
 kde-misc/kwalletcli 2.11: A command-line interface for the KDE Wallet
