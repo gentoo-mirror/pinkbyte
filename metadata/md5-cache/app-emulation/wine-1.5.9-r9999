@@ -12,5 +12,5 @@ RESTRICT=test
 SLOT=0
 SRC_URI=mirror://sourceforge/wine/Source/wine-1.5.9.tar.bz2 gecko? ( mirror://sourceforge/wine/wine_gecko-1.6-x86.msi win64? ( mirror://sourceforge/wine/wine_gecko-1.6-x86_64.msi ) ) mono? ( mirror://sourceforge/wine/Wine%20Mono/0.0.4/wine-mono-0.0.4.msi ) http://source.winehq.org/patches/data/87234 -> winepulse-2012.06.15.patch
 _eclass_exported_funcs=src_unpack:- src_prepare:- src_configure:- src_compile:- src_install:-
-_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	pax-utils	ecf634cba91bb9591a8fdb6f6145f1bb	toolchain-funcs	82165206dedb2075f9a0fb8f9b1f9441
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	pax-utils	ecf634cba91bb9591a8fdb6f6145f1bb	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
 _md5_=e28fbfc038d03cc224c47af6cdd3424f
