@@ -10,5 +10,5 @@ RDEPEND==net-libs/libvuurmuur-0.8_beta2_p20110330 >=sys-libs/ncurses-5 logrotate
 SLOT=0
 SRC_URI=ftp://ftp.vuurmuur.org/ubuntu/dists/jaunty/svn/vuurmuur_0.8~beta2-1+svn20110330.tar.gz ftp://ftp.vuurmuur.org/ubuntu/dists/jaunty/svn/vuurmuur-conf_0.8~beta2-1+svn20110330.tar.gz
 _eclass_exported_funcs=pkg_postinst:- src_prepare:- src_configure:- src_compile:- src_install:-
-_eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	libtool	48b1b9f6194d2842456514d1184ca72e	multilib	0236be304ee52e7f179ed2f337075515	toolchain-funcs	53b75b4a49cf3e61530a523804045432
+_eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	libtool	48b1b9f6194d2842456514d1184ca72e	multilib	0236be304ee52e7f179ed2f337075515	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
 _md5_=811bd2245254107a6ad705f305da2aee
