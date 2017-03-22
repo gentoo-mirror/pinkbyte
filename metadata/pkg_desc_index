@@ -1,5 +1,6 @@
 app-emulation/wine 1.5.2-r9999 1.5.9-r9999: free implementation of Windows(tm) on Unix with custom patches to make World of Tanks work
 app-misc/itmages-service 9999: Scripts for uploading pictures to ITmages.ru
+app-mobilephone/gammu 1.36.8: A tool to handle your cellular phone
 app-portage/findcruft 1.0.4-r1: Yet another script to find obsolete files
 app-text/qownnotes 9999: Open source notepad with Owncloud support
 dev-libs/libb64 1.2.1: C/C++ routines for fast encoding/decoding data into and from a base64-encoded format
