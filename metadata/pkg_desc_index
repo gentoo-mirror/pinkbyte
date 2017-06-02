@@ -13,6 +13,7 @@ kde-misc/kwalletcli 2.11: A command-line interface for the KDE Wallet
 media-libs/sdl-net 1.2.7-r9999: Simple Direct Media Layer Network Support Library
 net-analyzer/arpwatch 2.1.15-r9999: An ethernet monitor program that keeps track of ethernet/ip address pairings
 net-analyzer/lightsquid 1.8: Lite and fast log analyzer for Squid
+net-analyzer/playcap 0.1.1: Plays back captures made from wireshark, tcpdump, or any libpcap-based application
 net-analyzer/snort 2.9.2.2-r9999: The de facto standard for intrusion detection/prevention
 net-analyzer/snortsam 2.70-r9999: Snort plugin that allows automated blocking of IP addresses on several firewalls
 net-firewall/vuurmuur 0.8_beta2 0.8_beta2_p20110330: Frontend for iptables featuring easy to use command line utils, rule- and logdaemons
@@ -27,4 +28,5 @@ net-misc/yasnd 9999: Yet Another Stupid Network Daemon, tool that checks hosts' 
 x11-apps/spotlighter 0.3: Shows a movable and resizable spotlight on the screen
 x11-misc/gxneur 0.15.0: GTK+ based GUI for xneur
 x11-misc/qtdiscs 0.6 9999: QtDiscs is a little program to show information about CD and DVD discs collection
+x11-misc/qxneur 9999: Qt4 frontend for X Neural switcher
 x11-misc/xneur 0.15.0: In-place conversion of text typed in with a wrong keyboard layout (Punto Switcher replacement)
