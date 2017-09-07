@@ -6,6 +6,5 @@ HOMEPAGE=https://github.com/vain/sgopherd
 LICENSE=PIZZA-WARE
 RDEPEND=app-shells/bash sys-apps/sed sys-apps/xinetd
 SLOT=0
-_eclass_exported_funcs=pkg_postinst:- src_unpack:git-2 src_prepare:- src_install:-
 _eclasses_=git-2	195a672bfaf52d868442171c9469bbb6
 _md5_=fb3e72f85e06ee12dd58b02ab09abc74
