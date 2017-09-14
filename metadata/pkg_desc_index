@@ -19,6 +19,7 @@ net-firewall/vuurmuur 0.8_beta2 0.8_beta2_p20110330: Frontend for iptables featu
 net-ftp/tftp-hpa 5.1-r9999: port of the OpenBSD TFTP server
 net-irc/psybnc 2.4_beta1: psyBNC is a multi-user and multi-server gateway to IRC networks
 net-libs/libvuurmuur 0.8_beta2 0.8_beta2_p20110330: Libraries and plugins required by Vuurmuur
+net-misc/frr 2.0: Free Range Routing Protocol Suite, fork of Quagga
 net-misc/openvpn-radiusplugin 2.1: Radiusplugin for OpenVPN
 net-misc/sgopherd 9999: Small Gopher Server written in GNU Bash
 net-misc/utm5 3.002 3.003_p15: NetUP UTM - universal billing system for Internet Service Providers.
