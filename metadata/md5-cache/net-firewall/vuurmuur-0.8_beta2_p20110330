@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND==net-libs/libvuurmuur-0.8_beta2_p20110330 >=sys-libs/ncurses-5 logrotate? ( app-admin/logrotate )
 SLOT=0
 SRC_URI=ftp://ftp.vuurmuur.org/ubuntu/dists/jaunty/svn/vuurmuur_0.8~beta2-1+svn20110330.tar.gz ftp://ftp.vuurmuur.org/ubuntu/dists/jaunty/svn/vuurmuur-conf_0.8~beta2-1+svn20110330.tar.gz
-_eclasses_=autotools	d0e5375d47f4c809f406eb892e531513	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
+_eclasses_=autotools	d0e5375d47f4c809f406eb892e531513	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	e4a9360924c5ce9f52e61342cde58512
 _md5_=811bd2245254107a6ad705f305da2aee
