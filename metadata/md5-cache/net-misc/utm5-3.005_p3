@@ -1,13 +1,13 @@
-DEFINED_PHASES=install nofetch postinst preinst unpack
+DEFINED_PHASES=install nofetch postinst unpack
 DEPEND=>=app-arch/rpm2targz-9.0.0.3g
 DESCRIPTION=NetUP UTM - universal billing system for Internet Service Providers
 EAPI=7
-HOMEPAGE=www.netup.ru
+HOMEPAGE=https://www.netup.tv/en/utm5/
 KEYWORDS=~amd64
 LICENSE=NETUP
-RDEPEND=app-crypt/mit-krb5 dev-libs/openssl:0 sys-libs/zlib dev-libs/libxslt virtual/libmysqlclient virtual/mailx dev-db/postgresql:*
+RDEPEND=app-crypt/mit-krb5 dev-db/postgresql:* dev-libs/libxml2:2 dev-libs/libxslt dev-libs/openssl:0 net-misc/curl sys-libs/zlib virtual/libmysqlclient virtual/mailx
 RESTRICT=fetch mirror strip
 SLOT=0
-SRC_URI=utm5-3.004.x86_64-centos7_x64(update2).rpm
+SRC_URI=utm5-3.005.x86_64-centos6_x64(update3).rpm
 _eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	multilib	1d91b03d42ab6308b5f4f6b598ed110e	pax-utils	db85a3c508cf82c45f24b2723791cc93	rpm	f52cfa3a435468d86d3b49c357b9cb35	toolchain-funcs	a3a237ef6c0c58546bf23b2c382f9e56
-_md5_=7798c0fc906983b8e0ecc2ec831c3445
+_md5_=e3af8b2461afb886d9ef6dd0ae5e58c7
