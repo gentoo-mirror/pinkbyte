@@ -7,16 +7,6 @@ net-firewall/vuurmuur:logrotate - Add configuration file for logrotate
 net-irc/psybnc:multinetwork - Adds support for multiple networks
 net-irc/psybnc:oidentd - Adds support for oidentd
 net-irc/psybnc:scripting - Adds scripting support
-net-misc/frr:bgpclassless - Apply unofficial patch to enable classless prefixes for BGP. Patch and information to be found at http://hasso.linux.ee/doku.php/english:network:quagga
-net-misc/frr:fpm - Enable Forwarding Plane Manager support
-net-misc/frr:multipath - Enable multipath routes support for any number of routes
-net-misc/frr:nhrpd - Build Next Hop Resolution Protocol daemon
-net-misc/frr:ospfapi - Enable OSPFAPI support for client applications accessing the OSPF link state database
-net-misc/frr:pam - Add support for PAM (via sys-libs/pam) to the Quagga Virtual Terminal Interface Shell (vtysh); if the readline USE flag is disabled, this flag is ignored
-net-misc/frr:protobuf - Enable support for dev-libs/protobuf
-net-misc/frr:readline - Enable support for sys-libs/readline to provide the Quagga Virtual Terminal Interface Shell (vtysh)
-net-misc/frr:shell-access - Enable user access to shell/telnet/ssh
-net-misc/frr:tcp-zebra - Enable TCP zserv interface on port 2600 for Zebra/protocol-daemon communication. Unix domain sockets are chosen otherwise
 x11-misc/gxneur:gconf - enables to keep configuration (in GConf)
 x11-misc/xneur:aplay - Use aplay from media-sound/alsa-utils for playing sounds
 x11-misc/xneur:gtk3 - Use gtk3 instead of gtk2
