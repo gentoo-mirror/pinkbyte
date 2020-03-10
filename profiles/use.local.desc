@@ -7,7 +7,3 @@ net-firewall/vuurmuur:logrotate - Add configuration file for logrotate
 net-irc/psybnc:multinetwork - Adds support for multiple networks
 net-irc/psybnc:oidentd - Adds support for oidentd
 net-irc/psybnc:scripting - Adds scripting support
-x11-misc/gxneur:gconf - enables to keep configuration (in GConf)
-x11-misc/xneur:aplay - Use aplay from media-sound/alsa-utils for playing sounds
-x11-misc/xneur:gtk3 - Use gtk3 instead of gtk2
-x11-misc/xneur:keylogger - Enable keylogger support (logs all text into html; x11-misc/gxneur allows to view this text)

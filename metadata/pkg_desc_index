@@ -26,8 +26,5 @@ net-misc/yasnd 9999: Yet Another Stupid Network Daemon, tool that checks hosts' 
 net-p2p/cjdns 20.1: Encrypted networking for regular people
 x11-apps/spotlighter 0.3: Shows a movable and resizable spotlight on the screen
 x11-misc/cairo-dock 3.4.1: Cairo-dock is a fast, responsive, Mac OS X-like dock.
-x11-misc/gxneur 0.15.0: GTK+ based GUI for xneur
 x11-misc/qtdiscs 9999: QtDiscs is a little program to show information about CD and DVD discs collection
-x11-misc/qxneur 9999: Qt4 frontend for X Neural switcher
-x11-misc/xneur 0.15.0: In-place conversion of text typed in with a wrong keyboard layout (Punto Switcher replacement)
 x11-plugins/cairo-dock-plugins 3.4.1: Official plugins for cairo-dock
