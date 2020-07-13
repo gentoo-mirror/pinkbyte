@@ -1,11 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=install postinst prepare unpack
-DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Small Gopher Server written in GNU Bash
-EAPI=6
-HOMEPAGE=https://github.com/vain/sgopherd
+EAPI=7
+HOMEPAGE=https://www.uninformativ.de/git/sgopherd/file/README.html
 LICENSE=MIT
 PROPERTIES=live
 RDEPEND=app-shells/bash sys-apps/sed sys-apps/xinetd
 SLOT=0
 _eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
-_md5_=aec8cd88be4f47d8ffe545e63134cedb
+_md5_=35d44d0a45ef9e392b6d1875fd358d5f
