@@ -3,6 +3,7 @@ DEPEND==net-libs/libvuurmuur-0.8_beta2 >=sys-libs/ncurses-5
 DESCRIPTION=Frontend for iptables featuring easy to use command line utils, rule- and logdaemons
 EAPI=2
 HOMEPAGE=http://www.vuurmuur.org
+INHERIT=multilib
 IUSE=logrotate
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
