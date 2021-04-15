@@ -2,7 +2,3 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-net-firewall/vuurmuur:logrotate - Add configuration file for logrotate
-net-irc/psybnc:multinetwork - Adds support for multiple networks
-net-irc/psybnc:oidentd - Adds support for oidentd
-net-irc/psybnc:scripting - Adds scripting support

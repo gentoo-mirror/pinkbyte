@@ -4,10 +4,10 @@ games-arcade/mininim 0.10: The Advanced Prince of Persia Engine
 games-puzzle/braid 1.0.2-r9999: Platform game where you manipulate flow of time
 games-rpg/dear-esther 20130608-r1: Ghost story, told using first-person gaming technologies
 games-util/ttyhlauncher 9999: ttyh.ru minecraft launcher
+media-libs/sdl-net 1.2.7-r9999: Simple Direct Media Layer Network Support Library
 net-analyzer/arpwatch 2.1.15-r9999: An ethernet monitor program that keeps track of ethernet/ip address pairings
 net-analyzer/lightsquid 1.8: Lite and fast log analyzer for Squid
 net-analyzer/playcap 0.1.1: Plays back captures made from wireshark, tcpdump, or any libpcap-based application
-net-firewall/vuurmuur 0.8_beta2 0.8_beta2_p20110330: Frontend for iptables featuring easy to use command line utils, rule- and logdaemons
 net-ftp/tftp-hpa 5.1-r9999: port of the OpenBSD TFTP server
 net-im/jitsi-bin 2.10: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-misc/openvpn-radiusplugin 2.1: Radiusplugin for OpenVPN
