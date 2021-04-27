@@ -13,7 +13,6 @@ net-im/jitsi-bin 2.10: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, 
 net-misc/openvpn-radiusplugin 2.1: Radiusplugin for OpenVPN
 net-misc/sgopherd 9999: Small Gopher Server written in GNU Bash
 net-misc/utm5 3.005_p3: NetUP UTM - universal billing system for Internet Service Providers
-net-misc/wsdlpull 1.24: C++ web services client library and utilities
 net-misc/yasnd 9999: Yet Another Stupid Network Daemon, tool that checks hosts' availability
 x11-apps/spotlighter 0.3: Shows a movable and resizable spotlight on the screen
 x11-misc/cairo-dock 3.4.1: Cairo-dock is a fast, responsive, Mac OS X-like dock.
