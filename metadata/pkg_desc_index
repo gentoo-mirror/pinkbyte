@@ -1,7 +1,6 @@
 dev-libs/libb64 1.2.1: C/C++ routines for fast encoding/decoding data into and from a base64-encoded format
 games-arcade/mininim 0.10: The Advanced Prince of Persia Engine
 games-util/ttyhlauncher 9999: ttyh.ru minecraft launcher
-net-analyzer/lightsquid 1.8: Lite and fast log analyzer for Squid
 net-ftp/tftp-hpa 5.2-r9999: Port of the OpenBSD TFTP server
 net-im/jitsi-bin 2.10: Secure IM communicator that supports SIP, XMPP, AIM/ICQ, Windows Live, Yahoo
 net-misc/openvpn-radiusplugin 2.1: Radiusplugin for OpenVPN
