@@ -1,6 +1,8 @@
+acct-user/lightsquid 0: System user: lightsquid
 dev-libs/libb64 1.2.1: C/C++ routines for fast encoding/decoding data into and from a base64-encoded format
 games-arcade/mininim 0.10: The Advanced Prince of Persia Engine
 games-util/ttyhlauncher 9999: ttyh.ru minecraft launcher
+net-analyzer/lightsquid 1.8: Lite and fast log analyzer for Squid
 net-misc/utm5 3.005_p3: NetUP UTM - universal billing system for Internet Service Providers
 net-misc/wsdlpull 1.24: C++ web services client library and utilities
 net-misc/yasnd 9999: Yet Another Stupid Network Daemon, tool that checks hosts' availability
